@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":1080,"name":"01-cover-landscape.jpg","query":"?shot=cover&format=landscape&template=hero5&grade=sunset","w":1920},{"h":1600,"name":"02-editor.jpg","query":"?shot=editor&format=landscape&template=hero5&grade=sunset&panel=0","w":1500},{"h":1350,"name":"03-cover-portrait.jpg","query":"?shot=cover&format=portrait&template=grid6&grade=neon&title=Vice%20Nights&subtitle=neon%20run&tagline=THE%20CITY%20NEVER%20SLEEPS.","w":1080},{"h":1080,"name":"04-cover-square.jpg","query":"?shot=cover&format=square&template=slash4&grade=comic&title=Slash%20City&subtitle=pop%20heat&tagline=FOUR%20CUTS.%20ONE%20LEGEND.","w":1080}]
